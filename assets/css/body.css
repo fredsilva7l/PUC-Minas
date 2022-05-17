@@ -3,13 +3,6 @@
     src: url(../font/icones.ttf);
 }
 
-:root {
-    --preto: #000000;
-    --rosa: #ff66c4;
-    --azul: #5ce1c6;
-    --cinza: #949192;
-}
-
 body {
     background-color: #1D232A;
     font-family: 'Open Sans', 'icones', sans-serif;
@@ -24,13 +17,13 @@ body {
 }
 
 .cartao__botao--copiar {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #0480DC;
-        width: 100px;
-        height: 40px;
-        border-radius: 10px;
-        font-size: 0.9rem;
-        justify-self: flex-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0480DC;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    justify-self: flex-end;
 }
