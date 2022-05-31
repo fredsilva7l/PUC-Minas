@@ -60,7 +60,7 @@ main{
 
 .span{
   align-items: center;
-  background-color: var(--white_footer);
+  background-color: var(--white_100);
   cursor: pointer;
   display: flex;
   font-weight: bold;
